@@ -1,0 +1,130 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "firstname": "Sanchita",
+      "lastname": "Barik",
+      "address": "West Bengal",
+      "education": "Btech"
+    },
+    {
+      "id": 2,
+      "firstname": "Ram",
+      "lastname": "Sharma",
+      "address": "Chennai",
+      "education": "M.com"
+    },
+    {
+      "id": 3,
+      "firstname": "Rita",
+      "lastname": "Roy",
+      "address": "Odisha",
+      "education": "MBA"
+    },
+    {
+      "firstname": "Sanchita",
+      "lastname": "jghjgjhgjg",
+      "address": "khkhkhk",
+      "education": "ma",
+      "id": 4
+    },
+    {
+      "firstname": "hi",
+      "lastname": "ji",
+      "address": "ji",
+      "education": "btech",
+      "id": 5
+    },
+    {
+      "firstname": "Hi",
+      "lastname": "hello",
+      "address": "hjkhkh",
+      "education": "mcom",
+      "id": 6
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 7
+    },
+    {
+      "firstname": "s",
+      "lastname": "h",
+      "address": "h",
+      "education": "",
+      "id": 8
+    },
+    {
+      "firstname": "s",
+      "lastname": "h",
+      "address": "h",
+      "education": "",
+      "id": 9
+    },
+    {
+      "firstname": "s",
+      "lastname": "h",
+      "address": "h",
+      "education": "",
+      "id": 10
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 11
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 12
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 13
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 14
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 15
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 16
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 17
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "address": "",
+      "education": "",
+      "id": 18
+    }
+  ]
+}
